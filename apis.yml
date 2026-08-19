@@ -29,7 +29,7 @@ x-tier-reason: portfolio-lead
 x-domain-status: parked-for-sale
 x-domain-status-detail: 'shift.org HTTP 302-forwards to https://www.da.one/ (domain marketplace);
   HTTPS unreachable. Nameservers dns1/dns2.registrar-servers.com (Namecheap). Probed 2026-07-21.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
